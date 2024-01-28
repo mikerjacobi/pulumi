@@ -1,0 +1,8 @@
+config:
+  aws:profile: jacobi
+  aws:region: us-west-2
+  pulumi-static-site:acm_certificate_arn:
+    secure: AAABAC6A1rRL/9gkJGf2MLYI4UXbYochJyDF/gRIiR7awb0mfxDMiN0vPbCZQ4Agu8ROJ38MhzAzGn4a7qX/Jhh9zVPqMYZR7F6+HMbjnijRxFLwe0RPqmaxIeElQ9wsO6V2FEKsD81Pjh7ws/+vhFSIug==
+  pulumi-static-site:route_53_zone_id:
+    secure: AAABAHBGS3u5a/femw0jstB/+cdNlFz2CGyfCTP98MerKjNZFEjzZr2QZ3SKQDU9rznMxpk=
+  pulumi-static-site:subdomain: miker
